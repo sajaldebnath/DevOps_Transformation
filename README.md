@@ -1,0 +1,1 @@
+This repository contains two presentations I gave in 2022 about DevOps and how an organization transform to adopt the DevOps methodologies. These presentations provide view points from an Architect and then how we can utilize VMware products to make such transformation.
